@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
-import moment from "moment";
+
+// import moment from "moment";
 
 function App() {
   let sessionStorageItem: string | null =
@@ -35,10 +36,9 @@ function App() {
             className="App-link"
             href="https://security.snyk.io/package/npm/moment/2.24.0"
           >
-            "moment": "^2.24.0"
+            "moment": "^2.24.0" isn't used
           </a>
-
-          <p>{moment().format("LLLL")}</p>
+          {/*<p>{moment().format("LLLL")}</p>*/}
         </div>
       </header>
     </div>

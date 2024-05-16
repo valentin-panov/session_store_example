@@ -6,4 +6,7 @@
 
 ## v.0.1.1
 
-### injected https://security.snyk.io/package/npm/moment/2.0.0
+### injected https://security.snyk.io/package/npm/moment/2.24.0
+
+and if it is used in the scripts, it will appear:
+![img_1.png](public/img_1.png)
