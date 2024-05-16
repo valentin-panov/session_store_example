@@ -10,3 +10,5 @@
 
 and if it is used in the scripts, it will appear:
 ![img_1.png](public/img_1.png)
+And if the scripts don't import the vulnerable package, the bundler will exclude it during the build process.
+![img.png](public/img.png)
